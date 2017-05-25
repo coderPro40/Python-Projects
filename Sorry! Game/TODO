@@ -1,0 +1,20 @@
+-AUDIO2: add different audio files for each kind of movement/situation.
+
+FUTURE IMPROVEMENTS
+-INTRO MENU: let the user choose all the setings in the intro menu.
+-SAVE AND LOAD: add the option to save the game and load it later.
+-MAX_PLAYERS: FIX the max number of players should not be hardcoded, add a macro for that.
+-AI PLAYER: implement the option of playing against an AI player
+-MOVE BACKWARDS: implement the backwards move. It did not work, players would move backwards from the start spot and then finish.
+-LATERAL PANEL: add a lateral panel to the board
+-LATERAL PANEL2: show the player's turn, number rolled and instructions on the lateral panel
+
+COMMANDS AND CONTROLS
+When the program starts, it asks the user for the settings: number of players, number of human players, number of pawns per player and number of pawns to cross the finish line.
+After that, an window is opened with an empty board, the user must click on the spots he/she wants to place the deep pits with the left button of the mouse. Once he/she is done it`s necessary to press enter, then the user clicks on the spots to place the blackholes. Again once he/she is done it`s necessary to press enter.
+After that, the game starts. The player then must press enter in order to roll the die.
+After the die is rolled the player has to move one of his/her pieces forward/backward according to the number rolled.
+This is done by clicking on the piece to be moved and pressing up or down arrows on the keyboard.
+If the player does not want to move a piece it`s necessary to press enter.
+Then it`s the next players turn to play.
+The first player to get the pre-set amount of pawns to the finish line wins the game.

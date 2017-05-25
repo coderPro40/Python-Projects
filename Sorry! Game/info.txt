@@ -1,0 +1,1 @@
+You require PyGame to play this game
