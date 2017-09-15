@@ -1,2 +1,2 @@
-# WaterProofII
-For projects from beginner's cs classes, consist of my first cs projects in Python
+# WP02
+For project from when I began programming, consist of my first codes in Python
