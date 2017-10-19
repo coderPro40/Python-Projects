@@ -1,6 +1,5 @@
 """
 Name: ThankGod Ofurum
-Class CS1
 Project: Create a class consisting of methods
 for dealing with fractions both addition,
 subtraction, multiplication and division
