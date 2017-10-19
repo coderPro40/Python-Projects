@@ -1,6 +1,5 @@
 """
 Name: ThankGod Ofurum
-Class CS1
 Project: Create a classes that implement the logic gate
 methods consisting of binary and unary classes which in
 turn consists of and, or and not classes
