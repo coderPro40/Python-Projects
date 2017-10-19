@@ -1,6 +1,5 @@
 
-# CS3380 Game Development - Ludo
-# Leandro H. G. Aguiar
+# Leandro H. G. Aguiar, ThankGod Ofurum, Franck Dosso
 
 #generate sound for panel
 
